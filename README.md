@@ -19,6 +19,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 ## Open-source FL Framework
 - [**FedScale**](https://github.com/SymbioticLab/FedScale): Benchmarking Model and System Performance of Federated Learning 🎓
+- [EasyFL](https://github.com/EasyFL-AI/EasyFL): A Low-code Federated Learning Platform For Dummies
 - [Flower](https://flower.dev/): A Friendly Federated Learning Research Framework
 - [FedML](https://fedml.ai/): A Research Library and Benchmark for Federated 🎓Machine Learning 
 - [LEAF](https://github.com/TalwalkarLab/leaf): A Benchmark for Federated Settings 🎓
