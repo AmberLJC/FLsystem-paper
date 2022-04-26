@@ -38,10 +38,13 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 ## Survey Paper
 - [System Optimization in Synchronous Federated Training: A Survey](https://arxiv.org/abs/2109.03999)
 - [A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/pdf/1907.09693.pdf)
+- [A Field Guide to Federated Optimization](https://arxiv.org/abs/2107.06917)
 - [Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data](https://arxiv.org/pdf/2006.06983.pdf)
+- [Advances and Open Problems in Federated Learning](https://arxiv.org/pdf/1912.04977.pdf)
 
 ## System optimization 
 - [Oort: Efficient Federated Learning via Guided Participant Selection](https://www.usenix.org/conference/osdi21/presentation/lai) | OSDI 21 🎓
+- [Mistify: Automating DNN Model Porting for On-Device Inference at the Edge](https://www.usenix.org/conference/nsdi21/presentation/guo) | NSDI 21 🎓
 
 ## Other FL paper list
 - https://github.com/innovation-cat/Awesome-Federated-Machine-Learning
