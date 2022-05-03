@@ -37,9 +37,12 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - [EasyFL](https://github.com/EasyFL-AI/EasyFL): A Low-code Federated Learning Platform For Dummies
 - [Flower](https://flower.dev/): A Friendly Federated Learning Research Framework
 - [Sherpa](https://developers.sherpa.ai/privacy-technology/): Federated Learning and Differential Privacy Framework: Protect user privacy without renouncing the power of Artificial Intelligence
-- [FedML](https://fedml.ai/): A Research Library and Benchmark for Federated 🎓Machine Learning 
+- [FedML](https://fedml.ai/): A Research Library and Benchmark for Federated Machine Learning 🎓
 - [LEAF](https://github.com/TalwalkarLab/leaf): A Benchmark for Federated Settings 🎓
 - [FedEval](https://github.com/Di-Chai/FedEval): A Benchmark System with a Comprehensive Evaluation Model for Federated Learning
+- [OpenFed](https://openfed.readthedocs.io/README.html): A Comprehensive and Versatile Open-Source Federated Learning Framework
+
+
 
 ## Survey Paper
 - [System Optimization in Synchronous Federated Training: A Survey](https://arxiv.org/abs/2109.03999)
