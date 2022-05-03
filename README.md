@@ -54,6 +54,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 ## System optimization 
 - [Oort: Efficient Federated Learning via Guided Participant Selection](https://www.usenix.org/conference/osdi21/presentation/lai) | OSDI 21 🎓
 - [Mistify: Automating DNN Model Porting for On-Device Inference at the Edge](https://www.usenix.org/conference/nsdi21/presentation/guo) | NSDI 21 🎓
+- [Resource-Efficient Federated Learning](https://arxiv.org/abs/2111.01108)
 
 ## Other FL paper list
 - https://github.com/innovation-cat/Awesome-Federated-Machine-Learning
