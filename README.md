@@ -13,8 +13,9 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 - **Apple**:  Federated Evaluation and Tuning for On-Device Personalization: System Design & Applications | [`PDF`](https://arxiv.org/pdf/2102.08503.pdf), [`PDF`](https://docs-assets.developer.apple.com/ml-research/papers/learning-with-privacy-at-scale.pdf)
 - **Google**: Towards Federated Learning at Scale: System Design | [`PDF`](https://arxiv.org/abs/1902.01046), [`Github`](https://www.tensorflow.org/federated)🎓
-- **Microsoft**:  FLUTE: A Scalable, Extensible Framework for High-Performance Federated Learning Simulations | [`PDF`](https://arxiv.org/abs/2203.13789), [`Github`](https://github.com/microsoft/msrflute)
 - **Meta**:  | Papaya: Practical, Private, and Scalable Federated Learning [`PDF`](https://arxiv.org/abs/2111.04877) 🎓
+- **Microsoft**:  FLUTE: A Scalable, Extensible Framework for High-Performance Federated Learning Simulations | [`PDF`](https://arxiv.org/abs/2203.13789), [`Github`](https://github.com/microsoft/msrflute)
+- **Alibaba**: | FederatedScope: A Flexible Federated Learning Platform for Heterogeneity [`PDF`](https://arxiv.org/pdf/2204.05011.pdf)
 
 >Cross-silo
 
