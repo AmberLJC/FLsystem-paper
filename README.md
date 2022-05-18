@@ -58,8 +58,8 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - [Resource-Efficient Federated Learning](https://arxiv.org/abs/2111.01108)
 
 
-## Systems design
-- [λ-FL : Serverless Aggregation For Federated Learning](https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_44.pdf)
+## FL Systems design
+- [λ-FL : Serverless Aggregation For Federated Learning](https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_44.pdf) | AAAI 22 🎓
 
 
 ## Other FL paper list
