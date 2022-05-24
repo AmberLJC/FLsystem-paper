@@ -61,6 +61,9 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 ## FL Systems design
 - [λ-FL : Serverless Aggregation For Federated Learning](https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_44.pdf) | AAAI 22 🎓
 
+## General insight for FL
+- [On Large-Cohort Training for Federated Learning](https://openreview.net/forum?id=Kb26p7chwhf) | NeurIPS 2021 🎓
+- [What Do We Mean by Generalization in Federated Learning?](https://openreview.net/forum?id=VimqQq-i_Q) | ICLR 2022 🎓
 
 ## Other FL paper list
 - https://github.com/innovation-cat/Awesome-Federated-Machine-Learning
