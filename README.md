@@ -29,6 +29,8 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - OpenMined: PySyft | [`Github`](https://github.com/OpenMined/PySyft)
 - Baidu: Paddle | [`Github`](https://github.com/PaddlePaddle/PaddleFL)
 - ByteDance: Fedlearner | [`Github`](https://github.com/bytedance/fedlearner)
+- Meta: FLSim [`Github`]
+(https://github.com/facebookresearch/FLSim)
 
 ### Vertical FL
 - OpenMined: PyVertical [`Github`](https://github.com/OpenMined/PyVertical), [`PDF`](https://arxiv.org/pdf/2104.00489.pdf)
@@ -56,7 +58,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - [Oort: Efficient Federated Learning via Guided Participant Selection](https://www.usenix.org/conference/osdi21/presentation/lai) | OSDI 21 🎓
 - [Mistify: Automating DNN Model Porting for On-Device Inference at the Edge](https://www.usenix.org/conference/nsdi21/presentation/guo) | NSDI 21 🎓
 - [Resource-Efficient Federated Learning](https://arxiv.org/abs/2111.01108)
-
+- [Federated Learning with Buffered Asynchronous Aggregation](https://arxiv.org/abs/2106.06639?fbclid=IwAR2MqphvE6-_caw-MuXcjgHnFSXhJFdtbmqSEW92m-v_xeZCXXMJuqYx6Hs) | AISTATS 22 🎓
 
 ## FL Systems design
 - [λ-FL : Serverless Aggregation For Federated Learning](https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_44.pdf) | AAAI 22 🎓
