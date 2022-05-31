@@ -48,7 +48,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 
 ## Survey Paper
-- [System Optimization in Synchronous Federated Training: A Survey](https://arxiv.org/abs/2109.03999)
+- [Towards Efficient Synchronous Federated Training: A Survey on System Optimization Strategies](https://arxiv.org/abs/2109.03999)
 - [A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/pdf/1907.09693.pdf)
 - [A Field Guide to Federated Optimization](https://arxiv.org/abs/2107.06917)
 - [Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data](https://arxiv.org/pdf/2006.06983.pdf)
