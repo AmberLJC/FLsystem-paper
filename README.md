@@ -29,14 +29,13 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - OpenMined: PySyft | [`Github`](https://github.com/OpenMined/PySyft)
 - Baidu: Paddle | [`Github`](https://github.com/PaddlePaddle/PaddleFL)
 - ByteDance: Fedlearner | [`Github`](https://github.com/bytedance/fedlearner)
-- Meta: FLSim [`Github`]
-(https://github.com/facebookresearch/FLSim)
+- Meta: FLSim [`Github`](https://github.com/facebookresearch/FLSim)
 
 ### Vertical FL
 - OpenMined: PyVertical [`Github`](https://github.com/OpenMined/PyVertical), [`PDF`](https://arxiv.org/pdf/2104.00489.pdf)
 
 ## Open-source FL Framework
-- [**FedScale**](https://github.com/SymbioticLab/FedScale): Benchmarking Model and System Performance of Federated Learning | ICML 22 🎓
+- [**FedScale**](https://github.com/SymbioticLab/FedScale): Benchmarking Model and System Performance of Federated Learning | [ICML 22](https://arxiv.org/abs/2105.11367) 🎓
 - [EasyFL](https://github.com/EasyFL-AI/EasyFL): A Low-code Federated Learning Platform For Dummies
 - [Flower](https://flower.dev/): A Friendly Federated Learning Research Framework
 - [Sherpa](https://developers.sherpa.ai/privacy-technology/): Federated Learning and Differential Privacy Framework: Protect user privacy without renouncing the power of Artificial Intelligence
@@ -44,7 +43,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - [LEAF](https://github.com/TalwalkarLab/leaf): A Benchmark for Federated Settings 🎓
 - [FedEval](https://github.com/Di-Chai/FedEval): A Benchmark System with a Comprehensive Evaluation Model for Federated Learning
 - [OpenFed](https://openfed.readthedocs.io/README.html): A Comprehensive and Versatile Open-Source Federated Learning Framework
-
+- [FEDn](https://github.com/scaleoutsystems/fedn): A scalable, resilient and model agnostic hierarchical federated learning framework. - [Paper](https://arxiv.org/abs/2103.00148)
 
 
 ## Survey Paper
