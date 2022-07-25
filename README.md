@@ -50,7 +50,8 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - [FEDn](https://github.com/scaleoutsystems/fedn): A scalable, resilient and model agnostic hierarchical federated learning framework. - [Paper](https://arxiv.org/abs/2103.00148)
 
 
-## Survey Paper
+## Survey 
+- [**UNIFED: A Benchmark for Federated Learning Frameworks**](https://unifedbenchmark.github.io/)
 - [Towards Efficient Synchronous Federated Training: A Survey on System Optimization Strategies](https://arxiv.org/abs/2109.03999)
 - [A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/pdf/1907.09693.pdf)
 - [A Field Guide to Federated Optimization](https://arxiv.org/abs/2107.06917)
@@ -76,5 +77,6 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - https://github.com/innovation-cat/Awesome-Federated-Machine-Learning
 - https://github.com/chaoyanghe/Awesome-Federated-Learning
 - https://github.com/weimingwill/awesome-federated-learning#resource-allocation
+- https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data#federated-learning-framework
 
 
