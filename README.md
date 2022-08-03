@@ -16,7 +16,11 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - **Meta**:  | Papaya: Practical, Private, and Scalable Federated Learning [`PDF`](https://arxiv.org/abs/2111.04877) 🎓
 - **Microsoft**:  FLUTE: A Scalable, Extensible Framework for High-Performance Federated Learning Simulations | [`PDF`](https://arxiv.org/abs/2203.13789), [`Github`](https://github.com/microsoft/msrflute)
 - **Alibaba-1**: | FederatedScope: A Flexible Federated Learning Platform for Heterogeneity [`PDF`](https://arxiv.org/pdf/2204.05011.pdf)
-- **Alibaba-2**: |  Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning [`PDF`](https://www.usenix.org/system/files/osdi22-lv.pdf), [`Github`](https://github.com/alibaba/MNN) 🎓
+
+  > Federated Analytics
+  - **LinkedIn**: | LinkedIn's Audience Engagements API: A Privacy Preserving Data Analytics System at Scale
+ [`PDF`](https://arxiv.org/abs/2002.05839)
+  - **Alibaba-2**: |  Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning [`PDF`](https://www.usenix.org/system/files/osdi22-lv.pdf), [`Github`](https://github.com/alibaba/MNN) 🎓
 
 
 
@@ -58,10 +62,11 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - [Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data](https://arxiv.org/pdf/2006.06983.pdf)
 - [Advances and Open Problems in Federated Learning](https://arxiv.org/pdf/1912.04977.pdf)
 
-## Federated Computation Systems  
+## Federated Computation Systems 
 - [λ-FL : Serverless Aggregation For Federated Learning](https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_44.pdf) | AAAI 22 🎓
 - [Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning](https://www.usenix.org/system/files/osdi22-lv.pdf) | OSDI 22 🎓
 - [Device-centric Federated Analytics At Ease](https://arxiv.org/pdf/2206.11491.pdf)
+
 
 ## Algorithm for FL Systems
 - [Oort: Efficient Federated Learning via Guided Participant Selection](https://www.usenix.org/conference/osdi21/presentation/lai) | OSDI 21 🎓
