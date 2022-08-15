@@ -53,6 +53,13 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - [OpenFed](https://openfed.readthedocs.io/README.html): A Comprehensive and Versatile Open-Source Federated Learning Framework
 - [FEDn](https://github.com/scaleoutsystems/fedn): A scalable, resilient and model agnostic hierarchical federated learning framework. - [Paper](https://arxiv.org/abs/2103.00148)
 
+<p align="center">
+<img src="framework-summary.png" width="1000" height="700"/>
+</p>
+
+[Figure 1: Framework Functionality Support](https://unifedbenchmark.github.io/leaderboard/index.html)
+
+
 
 ## Survey 
 - [**UNIFED: A Benchmark for Federated Learning Frameworks**](https://unifedbenchmark.github.io/)
