@@ -12,23 +12,26 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 >Cross-device
 
 - **Apple**:  Federated Evaluation and Tuning for On-Device Personalization: System Design & Applications | [`PDF`](https://arxiv.org/pdf/2102.08503.pdf), [`PDF`](https://docs-assets.developer.apple.com/ml-research/papers/learning-with-privacy-at-scale.pdf)
-- **Google**: Towards Federated Learning at Scale: System Design | [`PDF`](https://arxiv.org/abs/1902.01046), [`Github`](https://www.tensorflow.org/federated)🎓
-- **Meta**:  | Papaya: Practical, Private, and Scalable Federated Learning [`PDF`](https://arxiv.org/abs/2111.04877) 🎓
+- **Google**: Towards Federated Learning at Scale: System Design | [`MLSys21`](https://arxiv.org/abs/1902.01046), [`Github`](https://www.tensorflow.org/federated)🎓
+- **Meta**: Papaya: Practical, Private, and Scalable Federated Learning | [`MLSys22`](https://arxiv.org/abs/2111.04877) 🎓
 - **Microsoft**:  FLUTE: A Scalable, Extensible Framework for High-Performance Federated Learning Simulations | [`PDF`](https://arxiv.org/abs/2203.13789), [`Github`](https://github.com/microsoft/msrflute)
-- **Alibaba-1**: | FederatedScope: A Flexible Federated Learning Platform for Heterogeneity [`PDF`](https://arxiv.org/pdf/2204.05011.pdf)
+- **Alibaba-1**:  FederatedScope: A Flexible Federated Learning Platform for Heterogeneity| [`PDF`](https://arxiv.org/pdf/2204.05011.pdf)
+- **Alibaba-2**:  FederatedScope: FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning |[`KDD22`](https://arxiv.org/abs/2204.05562) 🎓
 
-  > Federated Analytics
-  - **LinkedIn**: | LinkedIn's Audience Engagements API: A Privacy Preserving Data Analytics System at Scale
- [`PDF`](https://arxiv.org/abs/2002.05839)
-  - **Alibaba-2**: |  Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning [`PDF`](https://www.usenix.org/system/files/osdi22-lv.pdf), [`Github`](https://github.com/alibaba/MNN) 🎓
+
+
+> Federated Analytics
+- **LinkedIn**: LinkedIn's Audience Engagements API: A Privacy Preserving Data Analytics System at Scale | 
+[`PDF`](https://arxiv.org/abs/2002.05839)
+- **Alibaba-3**:  Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning | [`PDF`](https://www.usenix.org/system/files/osdi22-lv.pdf), [`Github`](https://github.com/alibaba/MNN) 🎓
 
 
 
 
 >Cross-silo
 
-- **IBM**:  | IBM Federated Learning: An Enterprise Framework White Paper | [`PDF`](https://arxiv.org/pdf/2007.10987.pdf)
-- **Nvidia**:  | Federated Learning for Healthcare Using NVIDIA *Clara* | [`PDF`](https://developer.download.nvidia.com/CLARA/Federated-Learning-Training-for-Healthcare-Using-NVIDIA-Clara.pdf)
+- **IBM**: IBM Federated Learning: An Enterprise Framework White Paper | [`PDF`](https://arxiv.org/pdf/2007.10987.pdf)
+- **Nvidia**:  Federated Learning for Healthcare Using NVIDIA *Clara* | [`PDF`](https://developer.download.nvidia.com/CLARA/Federated-Learning-Training-for-Healthcare-Using-NVIDIA-Clara.pdf)
 - **WeBank**:  Federated Learning White Paper V1.0 | [`PDF`](​​https://aisp-1251170195.cos.ap-hongkong.myqcloud.com/fedweb/1552917186945.pdf),  [`Github`](https://github.com/FederatedAI/FATE)
 
 
@@ -47,7 +50,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - [EasyFL](https://github.com/EasyFL-AI/EasyFL): A Low-code Federated Learning Platform For Dummies
 - [Flower](https://flower.dev/): A Friendly Federated Learning Research Framework
 - [Sherpa](https://developers.sherpa.ai/privacy-technology/): Federated Learning and Differential Privacy Framework: Protect user privacy without renouncing the power of Artificial Intelligence
-- [FedML](https://fedml.ai/): A Research Library and Benchmark for Federated Machine Learning 🎓
+- [FedML](https://fedml.ai/): A Research Library and Benchmark for Federated Machine Learning  
 - [LEAF](https://github.com/TalwalkarLab/leaf): A Benchmark for Federated Settings 🎓
 - [FedEval](https://github.com/Di-Chai/FedEval): A Benchmark System with a Comprehensive Evaluation Model for Federated Learning
 - [OpenFed](https://openfed.readthedocs.io/README.html): A Comprehensive and Versatile Open-Source Federated Learning Framework
