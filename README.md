@@ -31,8 +31,8 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 >Cross-silo
 
 - **IBM**: IBM Federated Learning: An Enterprise Framework White Paper | [`PDF`](https://arxiv.org/pdf/2007.10987.pdf)
-- **Nvidia**:  Federated Learning for Healthcare Using NVIDIA *Clara* | [`PDF`](https://developer.download.nvidia.com/CLARA/Federated-Learning-Training-for-Healthcare-Using-NVIDIA-Clara.pdf)
-- **WeBank**:  Federated Learning White Paper V1.0 | [`PDF`](​​https://aisp-1251170195.cos.ap-hongkong.myqcloud.com/fedweb/1552917186945.pdf),  [`Github`](https://github.com/FederatedAI/FATE)
+- **Nvidia**:  Federated Learning for Healthcare Using NVIDIA *Clara* | [`PDF`](https://developer.download.nvidia.com/CLARA/Federated-Learning-Training-for-Healthcare-Using-NVIDIA-Clara.pdf), [`Github`](https://github.com/NVIDIA/NVFlare)
+- **WeBank**:  Federated Learning White Paper V1.0 | [`PDF`](​​https://aisp-1251170195.cos.ap-hongkong.myqcloud.com/fedweb/1552917186945.pdf),  [`Github`](https://github.com/FederatedAI/FATE), [`Github`](https://github.com/FederatedAI/KubeFATE)
 
 
 ### Framework
@@ -40,7 +40,10 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - OpenMined: PySyft | [`Github`](https://github.com/OpenMined/PySyft)
 - Baidu: Paddle | [`Github`](https://github.com/PaddlePaddle/PaddleFL)
 - ByteDance: Fedlearner | [`Github`](https://github.com/bytedance/fedlearner)
-- Meta: FLSim [`Github`](https://github.com/facebookresearch/FLSim)
+- Meta: FLSim | [`Github`](https://github.com/facebookresearch/FLSim)
+- Ant: SecretFlow | [`Github`](https://github.com/secretflow/secretflow)
+- Huawei: MindSpore | [`Github`](https://mindspore.cn/federated)
+
 
 ### Vertical FL
 - OpenMined: PyVertical [`Github`](https://github.com/OpenMined/PyVertical), [`PDF`](https://arxiv.org/pdf/2104.00489.pdf)
@@ -51,10 +54,15 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - [Flower](https://flower.dev/): A Friendly Federated Learning Research Framework
 - [Sherpa](https://developers.sherpa.ai/privacy-technology/): Federated Learning and Differential Privacy Framework: Protect user privacy without renouncing the power of Artificial Intelligence
 - [FedML](https://fedml.ai/): A Research Library and Benchmark for Federated Machine Learning  
-- [LEAF](https://github.com/TalwalkarLab/leaf): A Benchmark for Federated Settings 🎓
+- [LEAF](https://github.com/TalwalkarLab/leaf): A Benchmark for Federated Settings | [NeurIPS 19](https://arxiv.org/pdf/1812.01097.pdf) 🎓
 - [FedEval](https://github.com/Di-Chai/FedEval): A Benchmark System with a Comprehensive Evaluation Model for Federated Learning
 - [OpenFed](https://openfed.readthedocs.io/README.html): A Comprehensive and Versatile Open-Source Federated Learning Framework
 - [FEDn](https://github.com/scaleoutsystems/fedn): A scalable, resilient and model agnostic hierarchical federated learning framework. - [Paper](https://arxiv.org/abs/2103.00148)
+- [Rosetta](https://github.com/LatticeX-Foundation/Rosetta): A Privacy-Preserving Framework Based on TensorFlow
+- [FedLab](https://github.com/SMILELab-FL/FedLab): A flexible Federated Learning Framework based on PyTorch, simplifying your Federated Learning research.
+
+
+
 
 <p align="center">
 <img src="framework-summary.png" width="1000" height="700"/>
