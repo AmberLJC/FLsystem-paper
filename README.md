@@ -35,6 +35,8 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - **WeBank**:  Federated Learning White Paper V1.0 | [`PDF`](​​https://aisp-1251170195.cos.ap-hongkong.myqcloud.com/fedweb/1552917186945.pdf),  [`Github`](https://github.com/FederatedAI/FATE), [`Github`](https://github.com/FederatedAI/KubeFATE)
 
 
+
+
 ### Framework
 - Cisco: Flame | [`Github`](https://github.com/cisco-open/flame)
 - OpenMined: PySyft | [`Github`](https://github.com/OpenMined/PySyft)
@@ -42,9 +44,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - ByteDance: Fedlearner | [`Github`](https://github.com/bytedance/fedlearner)
 - Meta: FLSim | [`Github`](https://github.com/facebookresearch/FLSim)
 - Ant: SecretFlow | [`Github`](https://github.com/secretflow/secretflow)
-- Huawei: MindSpore | [`Github`](https://mindspore.cn/federated)
 - ZTE: Neursaf FL | [`Github`](https://github.com/neursafe/federated-learning)
-
 
 ### Vertical FL
 - OpenMined: PyVertical [`Github`](https://github.com/OpenMined/PyVertical), [`PDF`](https://arxiv.org/pdf/2104.00489.pdf)
@@ -71,6 +71,12 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 [Figure 1: Framework Functionality Support](https://unifedbenchmark.github.io/leaderboard/index.html)
 
+
+
+## Edge / Mobile 
+- Google: TFlite | [`Github`](https://www.tensorflow.org/lite/examples/on_device_training/overview), [`Github`](https://github.com/google/federated-compute)
+- Alibaba: MNN | [`Github`](https://github.com/alibaba/MNN)
+- MIT: Tiny Training Engine | [`Github`](https://tinytraining.mit.edu/)
 
 
 ## Survey 
