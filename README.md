@@ -43,6 +43,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - Meta: FLSim | [`Github`](https://github.com/facebookresearch/FLSim)
 - Ant: SecretFlow | [`Github`](https://github.com/secretflow/secretflow)
 - Huawei: MindSpore | [`Github`](https://mindspore.cn/federated)
+- ZTE: Neursaf FL | [`Github`](https://github.com/neursafe/federated-learning)
 
 
 ### Vertical FL
