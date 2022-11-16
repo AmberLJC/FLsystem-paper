@@ -93,13 +93,17 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - [Device-centric Federated Analytics At Ease](https://arxiv.org/pdf/2206.11491.pdf)
 
 
-## Algorithm for FL Systems
+## Optimization for FL Systems
 - [Oort: Efficient Federated Learning via Guided Participant Selection](https://www.usenix.org/conference/osdi21/presentation/lai) | OSDI 21 🎓
 - [Mistify: Automating DNN Model Porting for On-Device Inference at the Edge](https://www.usenix.org/conference/nsdi21/presentation/guo) | NSDI 21 🎓
 - [Resource-Efficient Federated Learning](https://arxiv.org/abs/2111.01108)
 - [Federated Learning with Buffered Asynchronous Aggregation](https://arxiv.org/abs/2106.06639?fbclid=IwAR2MqphvE6-_caw-MuXcjgHnFSXhJFdtbmqSEW92m-v_xeZCXXMJuqYx6Hs) | AISTATS 22 🎓
 - [Hermes: An Efficient Federated Learning Framework for Heterogeneous Mobile Clients](https://sites.duke.edu/angli/files/2021/10/2021_Mobicom_Hermes_v1.pdf) | MobiCom 21 🎓
 - [PyramidFL: A Fine-grained Client Selection Framework for efficient Federated Learning](https://cse.msu.edu/~caozc/papers/mobicom22-li.pdf) | MobiCom 22 🎓
+- [Federated Select: A Primitive for Communication- and Memory-Efficient Federated Learning](https://arxiv.org/abs/2208.09432) Google
+
+## Edge
+- [Private Compute Core Architecture](https://arxiv.org/pdf/2209.10317.pdf)
 
 ## General insight for FL
 - [On Large-Cohort Training for Federated Learning](https://openreview.net/forum?id=Kb26p7chwhf) | NeurIPS 2021 🎓
