@@ -96,14 +96,24 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 ## Optimization for FL Systems
 - [Oort: Efficient Federated Learning via Guided Participant Selection](https://www.usenix.org/conference/osdi21/presentation/lai) | OSDI 21 🎓
 - [Mistify: Automating DNN Model Porting for On-Device Inference at the Edge](https://www.usenix.org/conference/nsdi21/presentation/guo) | NSDI 21 🎓
-- [Resource-Efficient Federated Learning](https://arxiv.org/abs/2111.01108)
+- [Resource-Efficient Federated Learning](https://arxiv.org/abs/2111.01108) | EuroSys 23 🎓
 - [Federated Learning with Buffered Asynchronous Aggregation](https://arxiv.org/abs/2106.06639?fbclid=IwAR2MqphvE6-_caw-MuXcjgHnFSXhJFdtbmqSEW92m-v_xeZCXXMJuqYx6Hs) | AISTATS 22 🎓
 - [Hermes: An Efficient Federated Learning Framework for Heterogeneous Mobile Clients](https://sites.duke.edu/angli/files/2021/10/2021_Mobicom_Hermes_v1.pdf) | MobiCom 21 🎓
 - [PyramidFL: A Fine-grained Client Selection Framework for efficient Federated Learning](https://cse.msu.edu/~caozc/papers/mobicom22-li.pdf) | MobiCom 22 🎓
-- [Federated Select: A Primitive for Communication- and Memory-Efficient Federated Learning](https://arxiv.org/abs/2208.09432) Google
+- [Federated Select: A Primitive for Communication- and Memory-Efficient Federated Learning](https://arxiv.org/abs/2208.09432) | Google
 
 ## Edge
 - [Private Compute Core Architecture](https://arxiv.org/pdf/2209.10317.pdf)
+
+## Real-world FL Application
+- Google keyboard query suggestions [`PDF`](https://arxiv.org/pdf/1812.02903.pdf) (2018)
+- Google mobile keyboard prediction [`PDF`](https://arxiv.org/pdf/1811.03604.pdf)
+- Google Out-Of-Vocabulary Words [`PDF`](https://arxiv.org/pdf/1903.10635.pdf)
+- Google Emoji Prediction in a Mobile Keyboard [`PDF`](https://arxiv.org/pdf/1906.04329.pdf)
+- Google Training Speech Recognition Models (2021) [`PDF`](https://arxiv.org/abs/2010.15965)
+- Advancing health research with Google Health Studies (2020) [`Website`](https://blog.google/technology/health/google-health-studies-app/)
+- Federated Evaluation of On-device Personalization [`PDF`](https://arxiv.org/pdf/1910.10252.pdf)
+ 
 
 ## General insight for FL
 - [On Large-Cohort Training for Federated Learning](https://openreview.net/forum?id=Kb26p7chwhf) | NeurIPS 2021 🎓
