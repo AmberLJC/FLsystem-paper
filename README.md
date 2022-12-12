@@ -6,7 +6,18 @@ Star this repository, and then you can keep abreast of the latest developments o
 
 Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
-## FL system from big tech companies
+
+## Table of Contents
+- [Real FL Systems/Frameworks](#fl-system-from-big-tech-companies)
+- [On-device Systems](#edge--mobile)
+- [FL Systems Paper](#federated-computation-systems)
+- [System-side optimization for FL](#optimization-for-fl-systems)
+- [Privacy and Security Systems]()
+- [Real-world FL Application](#real-world-fl-application)
+- [FL Survey and Insights](#survey)
+
+
+## FL Systems from big tech companies
 ### Paper
 
 >Cross-device
@@ -30,7 +41,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 >Cross-silo
 
-- **IBM**: IBM Federated Learning: An Enterprise Framework White Paper | [`PDF`](https://arxiv.org/pdf/2007.10987.pdf)
+- **IBM**: IBM Federated Learning: An Enterprise Framework White Paper | [`PDF`](https://arxiv.org/pdf/2007.10987.pdf), [`Github`](https://ibmfl.mybluemix.net/github)
 - **Nvidia**:  Federated Learning for Healthcare Using NVIDIA *Clara* | [`PDF`](https://developer.download.nvidia.com/CLARA/Federated-Learning-Training-for-Healthcare-Using-NVIDIA-Clara.pdf), [`Github`](https://github.com/NVIDIA/NVFlare)
 - **WeBank**:  Federated Learning White Paper V1.0 | [`PDF`](​​https://aisp-1251170195.cos.ap-hongkong.myqcloud.com/fedweb/1552917186945.pdf),  [`FATE`](https://github.com/FederatedAI/FATE), [`KubeFATE`](https://github.com/FederatedAI/KubeFATE), [FATE-FLOW](https://federatedai.github.io/FATE-Flow/latest/fate_flow/)
 
@@ -77,21 +88,15 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - Google: TFlite | [`Github`](https://www.tensorflow.org/lite/examples/on_device_training/overview), [`Github`](https://github.com/google/federated-compute)
 - Alibaba: MNN | [`Github`](https://github.com/alibaba/MNN)
 - MIT: Tiny Training Engine | [`Github`](https://tinytraining.mit.edu/)
+- [Private Compute Core Architecture](https://arxiv.org/pdf/2209.10317.pdf)
 
 
-## Survey 
-- [**UNIFED: A Benchmark for Federated Learning Frameworks**](https://unifedbenchmark.github.io/)
-- [Towards Efficient Synchronous Federated Training: A Survey on System Optimization Strategies](https://arxiv.org/abs/2109.03999)
-- [A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/pdf/1907.09693.pdf)
-- [A Field Guide to Federated Optimization](https://arxiv.org/abs/2107.06917)
-- [Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data](https://arxiv.org/pdf/2006.06983.pdf)
-- [Advances and Open Problems in Federated Learning](https://arxiv.org/pdf/1912.04977.pdf)
+
 
 ## Federated Computation Systems 
-- [λ-FL : Serverless Aggregation For Federated Learning](https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_44.pdf) | AAAI 22 🎓
 - [Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning](https://www.usenix.org/system/files/osdi22-lv.pdf) | OSDI 22 🎓
 - [Device-centric Federated Analytics At Ease](https://arxiv.org/pdf/2206.11491.pdf)
-
+- [λ-FL : Serverless Aggregation For Federated Learning](https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_44.pdf) | AAAI 22 🎓
 
 ## Optimization for FL Systems
 - [Oort: Efficient Federated Learning via Guided Participant Selection](https://www.usenix.org/conference/osdi21/presentation/lai) | OSDI 21 🎓
@@ -101,9 +106,20 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - [Hermes: An Efficient Federated Learning Framework for Heterogeneous Mobile Clients](https://sites.duke.edu/angli/files/2021/10/2021_Mobicom_Hermes_v1.pdf) | MobiCom 21 🎓
 - [PyramidFL: A Fine-grained Client Selection Framework for efficient Federated Learning](https://cse.msu.edu/~caozc/papers/mobicom22-li.pdf) | MobiCom 22 🎓
 - [Federated Select: A Primitive for Communication- and Memory-Efficient Federated Learning](https://arxiv.org/abs/2208.09432) | Google
+- [Auxo: Heterogeneity-Mitigating Federated Learning via Scalable Client Clustering](https://arxiv.org/abs/2210.16656)
 
-## Edge
-- [Private Compute Core Architecture](https://arxiv.org/pdf/2209.10317.pdf)
+
+## Security and Privacy
+> Security
+- SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost	[`PDF`](https://www.usenix.org/conference/usenixsecurity22/presentation/chandran)
+- Secure Federated Learning for Neuroimaging [`PDF`](https://arxiv.org/pdf/2205.05249.pdf)
+
+*incoming*
+
+> Privacy
+- The Distributed Discrete Gaussian Mechanism for Federated Learning with Secure Aggregation [`PDF`](https://arxiv.org/pdf/2102.06387.pdf)
+
+*incoming*
 
 ## Real-world FL Application
 - Google keyboard query suggestions [`PDF`](https://arxiv.org/pdf/1812.02903.pdf) (2018)
@@ -114,6 +130,15 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - Advancing health research with Google Health Studies (2020) [`Website`](https://blog.google/technology/health/google-health-studies-app/)
 - Federated Evaluation of On-device Personalization [`PDF`](https://arxiv.org/pdf/1910.10252.pdf)
  
+
+## Survey 
+- [**UNIFED: A Benchmark for Federated Learning Frameworks**](https://unifedbenchmark.github.io/)
+- [Towards Efficient Synchronous Federated Training: A Survey on System Optimization Strategies](https://arxiv.org/abs/2109.03999)
+- [A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/pdf/1907.09693.pdf)
+- [A Field Guide to Federated Optimization](https://arxiv.org/abs/2107.06917)
+- [Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data](https://arxiv.org/pdf/2006.06983.pdf)
+- [Advances and Open Problems in Federated Learning](https://arxiv.org/pdf/1912.04977.pdf)
+
 
 ## General insight for FL
 - [On Large-Cohort Training for Federated Learning](https://openreview.net/forum?id=Kb26p7chwhf) | NeurIPS 2021 🎓
