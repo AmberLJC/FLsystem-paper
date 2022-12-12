@@ -1,7 +1,7 @@
 
 # Awesome Federated Computation Systems Papers
 
-A curated list of **FL system**-related academic papers, articles, tutorials, slides and projects. 
+A curated list of **FL systems**-related academic papers, articles, tutorials, slides and projects. 
 Star this repository, and then you can keep abreast of the latest developments of this booming research field. 
 
 Papers with 🎓 have been peer-reviewed and presented in academic conferences.
@@ -12,7 +12,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - [On-device Systems](#edge--mobile)
 - [FL Systems Paper](#federated-computation-systems)
 - [System-side optimization for FL](#optimization-for-fl-systems)
-- [Privacy and Security Systems]()
+- [Privacy and Security Systems](#security-and-privacy)
 - [Real-world FL Application](#real-world-fl-application)
 - [FL Survey and Insights](#survey)
 
