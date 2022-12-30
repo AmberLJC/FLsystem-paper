@@ -8,13 +8,21 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 
 ## Table of Contents
-- [Real FL Systems/Frameworks](#fl-system-from-big-tech-companies)
-- [On-device Systems](#edge--mobile)
-- [FL Systems Paper](#federated-computation-systems)
-- [System-side optimization for FL](#optimization-for-fl-systems)
-- [Privacy and Security Systems](#security-and-privacy)
-- [Real-world FL Application](#real-world-fl-application)
-- [FL Survey and Insights](#survey)
+- [Awesome Federated Computation Systems Papers](#awesome-federated-computation-systems-papers)
+  - [Table of Contents](#table-of-contents)
+  - [FL Systems from big tech companies](#fl-systems-from-big-tech-companies)
+    - [Paper](#paper)
+    - [Framework](#framework)
+    - [Vertical FL](#vertical-fl)
+  - [Open-source FL Framework](#open-source-fl-framework)
+  - [Edge / Mobile](#edge--mobile)
+  - [Federated Computation Systems](#federated-computation-systems)
+  - [Optimization for FL Systems](#optimization-for-fl-systems)
+  - [Security and Privacy](#security-and-privacy)
+  - [Real-world FL Application](#real-world-fl-application)
+  - [Survey](#survey)
+  - [General insight for FL](#general-insight-for-fl)
+  - [Other FL paper list](#other-fl-paper-list)
 
 
 ## FL Systems from big tech companies
@@ -107,6 +115,11 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - [PyramidFL: A Fine-grained Client Selection Framework for efficient Federated Learning](https://cse.msu.edu/~caozc/papers/mobicom22-li.pdf) | MobiCom 22 🎓
 - [Federated Select: A Primitive for Communication- and Memory-Efficient Federated Learning](https://arxiv.org/abs/2208.09432) | Google
 - [Auxo: Heterogeneity-Mitigating Federated Learning via Scalable Client Clustering](https://arxiv.org/abs/2210.16656)
+- [Towards Non-I.I.D. and Invisible Data with FedNAS: Federated Deep Learning via Neural Architecture Search](https://arxiv.org/abs/2004.08546) | CVPR 20 workshop 🎓
+- [HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients](https://arxiv.org/abs/2010.01264) | ICLR 21 🎓
+- [FedorAS: Federated Architecture Search under system heterogeneity
+](https://arxiv.org/abs/2206.11239) | Samsung
+
 
 
 ## Security and Privacy
