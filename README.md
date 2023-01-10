@@ -132,6 +132,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 > Privacy
 - The Distributed Discrete Gaussian Mechanism for Federated Learning with Secure Aggregation [`PDF`](https://arxiv.org/pdf/2102.06387.pdf)
+- Differential Privacy reading list | [`Github`](https://github.com/JeffffFu/Awesome-Differential-Privacy-and-Meachine-Learning)
 
 *incoming*
 
