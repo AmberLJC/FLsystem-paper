@@ -121,6 +121,9 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - [FedorAS: Federated Architecture Search under system heterogeneity
 ](https://arxiv.org/abs/2206.11239) | Samsung
 
+### Energy-efficiency
+- [Green Federated Learning](https://arxiv.org/pdf/2303.14604.pdf) | Meta
+- [A first look into the carbon footprint of federated learning](https://arxiv.org/abs/2102.07627) | Flower
 
 
 ## Security and Privacy
