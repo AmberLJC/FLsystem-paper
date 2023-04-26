@@ -20,9 +20,11 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
   - [Optimization for FL Systems](#optimization-for-fl-systems)
   - [Security and Privacy](#security-and-privacy)
   - [Real-world FL Application](#real-world-fl-application)
+  - [Real-world device traces](#real-world-device-traces)
   - [Survey](#survey)
   - [General insight for FL](#general-insight-for-fl)
   - [Other FL paper list](#other-fl-paper-list)
+  
 
 
 ## FL Systems from big tech companies
@@ -147,7 +149,13 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - Google Training Speech Recognition Models (2021) [`PDF`](https://arxiv.org/abs/2010.15965)
 - Advancing health research with Google Health Studies (2020) [`Website`](https://blog.google/technology/health/google-health-studies-app/)
 - Federated Evaluation of On-device Personalization [`PDF`](https://arxiv.org/pdf/1910.10252.pdf)
- 
+
+## Real-world device traces
+- Mobile AI benchmark [`Website`](https://ai-benchmark.com/ranking_detailed.html)
+- Mobile Access Bandwidth in Practice: Measurement, Analysis, and Implications [`Website`](https://mobilebandwidth.github.io/#data-release)
+- Real-world data partition FL dataset | FedScale [`Website`](https://fedscale.ai/docs/dataset)
+- Mobile availability (client behavior) trace | Characterizing impacts of heterogeneity in federated learning upon large-scale smartphone data. [`Website`]((https://github.com/PKU-Chengxu/FLASH)
+
 
 ## Survey 
 - [**UNIFED: A Benchmark for Federated Learning Frameworks**](https://unifedbenchmark.github.io/)
