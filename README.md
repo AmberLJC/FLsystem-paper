@@ -154,7 +154,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - Mobile AI benchmark [`Website`](https://ai-benchmark.com/ranking_detailed.html)
 - Mobile Access Bandwidth in Practice: Measurement, Analysis, and Implications [`Website`](https://mobilebandwidth.github.io/#data-release)
 - Real-world data partition FL dataset | FedScale [`Website`](https://fedscale.ai/docs/dataset)
-- Mobile availability (client behavior) trace | Characterizing impacts of heterogeneity in federated learning upon large-scale smartphone data. [`Website`]((https://github.com/PKU-Chengxu/FLASH)
+- Mobile availability (client behavior) trace | Characterizing impacts of heterogeneity in federated learning upon large-scale smartphone data. [`Website`](https://github.com/PKU-Chengxu/FLASH)
 
 
 ## Survey 
