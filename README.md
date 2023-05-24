@@ -99,9 +99,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - Alibaba: MNN | [`Github`](https://github.com/alibaba/MNN)
 - MIT: Tiny Training Engine | [`Github`](https://tinytraining.mit.edu/)
 - [Private Compute Core Architecture](https://arxiv.org/pdf/2209.10317.pdf)
-
-
-
+- Enabling conversational interaction on mobile with LLMs | Google [`Blog`](https://ai.googleblog.com/2023/05/enabling-conversational-interaction-on.html?m=1)
 
 ## Federated Computation Systems 
 - [Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning](https://www.usenix.org/system/files/osdi22-lv.pdf) | OSDI 22 🎓
