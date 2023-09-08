@@ -92,6 +92,8 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 [Figure 1: Framework Functionality Support](https://unifedbenchmark.github.io/leaderboard/index.html)
 
+## FL x LLM
+- [FederatedScope-LLM](https://arxiv.org/abs/2309.00363): A Comprehensive Package for Fine-tuning Large Language Models in Federated Learning
 
 
 ## Edge / Mobile 
