@@ -59,7 +59,8 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 
 ### Framework
-- Cisco: Flame | [`Github`](https://github.com/cisco-open/flame)
+- Cisco: Flame | [`Github`](https://github.com/cisco-open/flame)  
+  - [Federated Learning Operations Made Simple with Flame](https://arxiv.org/abs/2305.05118)
 - OpenMined: PySyft | [`Github`](https://github.com/OpenMined/PySyft)
 - Baidu: Paddle | [`Github`](https://github.com/PaddlePaddle/PaddleFL)
 - ByteDance: Fedlearner | [`Github`](https://github.com/bytedance/fedlearner)
