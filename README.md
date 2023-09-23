@@ -118,7 +118,9 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - [Hermes: An Efficient Federated Learning Framework for Heterogeneous Mobile Clients](https://sites.duke.edu/angli/files/2021/10/2021_Mobicom_Hermes_v1.pdf) | MobiCom 21 🎓
 - [PyramidFL: A Fine-grained Client Selection Framework for efficient Federated Learning](https://cse.msu.edu/~caozc/papers/mobicom22-li.pdf) | MobiCom 22 🎓
 - [Federated Select: A Primitive for Communication- and Memory-Efficient Federated Learning](https://arxiv.org/abs/2208.09432) | Google
-- [Auxo: Heterogeneity-Mitigating Federated Learning via Scalable Client Clustering](https://arxiv.org/abs/2210.16656)
+- [Auxo](https://arxiv.org/abs/2210.16656): Heterogeneity-Mitigating Federated Learning via Scalable Client Clustering | SoCC' 23
+- [Pisces](https://dl.acm.org/doi/abs/10.1145/3542929.3563463): efficient federated learning via guided asynchronous training| SoCC' 22
+- [GlueFL](https://arxiv.org/pdf/2212.01523.pdf): Reconciling Client Sampling and Model Masking for Bandwidth Efficient Federated Learning | MLSys' 23
 - [Towards Non-I.I.D. and Invisible Data with FedNAS: Federated Deep Learning via Neural Architecture Search](https://arxiv.org/abs/2004.08546) | CVPR 20 workshop 🎓
 - [HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients](https://arxiv.org/abs/2010.01264) | ICLR 21 🎓
 - [FedorAS: Federated Architecture Search under system heterogeneity
