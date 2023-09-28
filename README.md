@@ -150,6 +150,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - Google Out-Of-Vocabulary Words [`PDF`](https://arxiv.org/pdf/1903.10635.pdf)
 - Google Emoji Prediction in a Mobile Keyboard [`PDF`](https://arxiv.org/pdf/1906.04329.pdf)
 - Google Training Speech Recognition Models (2021) [`PDF`](https://arxiv.org/abs/2010.15965)
+- Google Federated Learning of Gboard Language Models with Differential Privacy [`PDF`](https://arxiv.org/pdf/2305.18465.pdf)
 - Advancing health research with Google Health Studies (2020) [`Website`](https://blog.google/technology/health/google-health-studies-app/)
 - Federated Evaluation of On-device Personalization [`PDF`](https://arxiv.org/pdf/1910.10252.pdf)
 
