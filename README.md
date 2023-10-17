@@ -1,7 +1,7 @@
 
 # Awesome Federated Computation Systems Papers
 
-A curated list of **FL systems**-related academic papers, articles, tutorials, slides and projects. 
+A curated list of **FL system**-related academic papers, articles, tutorials, slides and projects. 
 Star this repository, and then you can keep abreast of the latest developments of this booming research field. 
 
 Papers with 🎓 have been peer-reviewed and presented in academic conferences.
