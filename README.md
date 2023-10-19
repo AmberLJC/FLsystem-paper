@@ -53,7 +53,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 - **IBM**: IBM Federated Learning: An Enterprise Framework White Paper | [`PDF`](https://arxiv.org/pdf/2007.10987.pdf), [`Github`](https://ibmfl.mybluemix.net/github)
 - **Nvidia**:  Federated Learning for Healthcare Using NVIDIA *Clara* | [`PDF`](https://developer.download.nvidia.com/CLARA/Federated-Learning-Training-for-Healthcare-Using-NVIDIA-Clara.pdf), [`Github`](https://github.com/NVIDIA/NVFlare)
-- **WeBank**:  Federated Learning White Paper V1.0 | [`PDF`](​​https://aisp-1251170195.cos.ap-hongkong.myqcloud.com/fedweb/1552917186945.pdf),  [`FATE`](https://github.com/FederatedAI/FATE), [`KubeFATE`](https://github.com/FederatedAI/KubeFATE), [FATE-FLOW](https://federatedai.github.io/FATE-Flow/latest/fate_flow/)
+- **WeBank**:  Federated Learning White Paper V1.0 | [`PDF`](​​https://aisp-1251170195.cos.ap-hongkong.myqcloud.com/fedweb/1552917186945.pdf),  [`FATE`](https://github.com/FederatedAI/FATE), [`KubeFATE`](https://github.com/FederatedAI/KubeFATE), [FATE-FLOW](https://federatedai.github.io/FATE-Flow/latest/fate_flow/), [FATE-LLM](https://arxiv.org/pdf/2310.10049.pdf)
 
 
 
