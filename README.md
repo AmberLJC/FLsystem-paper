@@ -108,6 +108,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - [Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning](https://www.usenix.org/system/files/osdi22-lv.pdf) | OSDI 22 🎓
 - [Device-centric Federated Analytics At Ease](https://arxiv.org/pdf/2206.11491.pdf)
 - [λ-FL : Serverless Aggregation For Federated Learning](https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_44.pdf) | AAAI 22 🎓
+- [Characterizing and Optimizing End-to-End Systems for Private Inference](https://arxiv.org/abs/2207.07177) | ASPLOS 23 🎓
 
 ## Optimization for FL Systems
 - [Oort: Efficient Federated Learning via Guided Participant Selection](https://www.usenix.org/conference/osdi21/presentation/lai) | OSDI 21 🎓
@@ -123,8 +124,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - [GlueFL](https://arxiv.org/pdf/2212.01523.pdf): Reconciling Client Sampling and Model Masking for Bandwidth Efficient Federated Learning | MLSys' 23
 - [Towards Non-I.I.D. and Invisible Data with FedNAS: Federated Deep Learning via Neural Architecture Search](https://arxiv.org/abs/2004.08546) | CVPR 20 workshop 🎓
 - [HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients](https://arxiv.org/abs/2010.01264) | ICLR 21 🎓
-- [FedorAS: Federated Architecture Search under system heterogeneity
-](https://arxiv.org/abs/2206.11239) | Samsung
+- [FedorAS: Federated Architecture Search under system heterogeneity](https://arxiv.org/abs/2206.11239) | Samsung
 
 ### Energy-efficiency
 - [Green Federated Learning](https://arxiv.org/pdf/2303.14604.pdf) | Meta
