@@ -109,6 +109,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - [Device-centric Federated Analytics At Ease](https://arxiv.org/pdf/2206.11491.pdf)
 - [λ-FL : Serverless Aggregation For Federated Learning](https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_44.pdf) | AAAI 22 🎓
 - [Characterizing and Optimizing End-to-End Systems for Private Inference](https://arxiv.org/abs/2207.07177) | ASPLOS 23 🎓
+- [STI: Turbocharge NLP Inference at the Edge via Elastic Pipelining](https://arxiv.org/abs/2207.05022) | ASPLOS 23 🎓
 
 ## Optimization for FL Systems
 - [Oort: Efficient Federated Learning via Guided Participant Selection](https://www.usenix.org/conference/osdi21/presentation/lai) | OSDI 21 🎓
