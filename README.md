@@ -126,6 +126,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - [Towards Non-I.I.D. and Invisible Data with FedNAS: Federated Deep Learning via Neural Architecture Search](https://arxiv.org/abs/2004.08546) | CVPR 20 workshop 🎓
 - [HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients](https://arxiv.org/abs/2010.01264) | ICLR 21 🎓
 - [FedorAS: Federated Architecture Search under system heterogeneity](https://arxiv.org/abs/2206.11239) | Samsung
+- [Venn](https://arxiv.org/abs/2312.08298): Resource Management Across Federated Learning Jobs | Umich
 
 ### Energy-efficiency
 - [Green Federated Learning](https://arxiv.org/pdf/2303.14604.pdf) | Meta
